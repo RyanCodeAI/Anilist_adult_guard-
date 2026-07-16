@@ -12,7 +12,7 @@
     "readme": "",
     "notes": "Toggle from the tray icon. Only blocks progress/status updates (what drives AniList's 'watched episode X' activity posts) for media where isAdult is true - manual score/list edits and non-adult titles are untouched.",
     "lang": "multi",
-    "payloadURI": "C:/Users/YOUR_USERNAME/seanime-plugins/anilist-adult-guard/anilist-adult-guard.ts",
+    "payloadURI": "https://raw.githubusercontent.com/RyanCodeAI/Anilist_adult_guard-/refs/heads/main/anilist-adult-guard.ts",
     "plugin": {
         "version": "1",
         "permissions": {
