@@ -2,7 +2,7 @@
     "id": "anilist-adult-guard",
     "name": "AniList Adult Content Guard",
     "version": "1.0.0",
-    "manifestURI": "",
+    "manifestURI": "https://raw.githubusercontent.com/RyanCodeAI/Anilist_adult_guard-/refs/heads/main/anilist-adult-guard.json",
     "language": "typescript",
     "type": "plugin",
     "description": "Stops episode progress for Adult-flagged anime from ever syncing to AniList, across online streaming, local files, and torrent/debrid playback.",
