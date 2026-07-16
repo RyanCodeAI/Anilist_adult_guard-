@@ -1,0 +1,23 @@
+{
+    "id": "anilist-adult-guard",
+    "name": "AniList Adult Content Guard",
+    "version": "1.0.0",
+    "manifestURI": "",
+    "language": "typescript",
+    "type": "plugin",
+    "description": "Stops episode progress for Adult-flagged anime from ever syncing to AniList, across online streaming, local files, and torrent/debrid playback.",
+    "author": "RyanCodeAI",
+    "icon": "",
+    "website": "",
+    "readme": "",
+    "notes": "Toggle from the tray icon. Only blocks progress/status updates (what drives AniList's 'watched episode X' activity posts) for media where isAdult is true - manual score/list edits and non-adult titles are untouched.",
+    "lang": "multi",
+    "payloadURI": "C:/Users/YOUR_USERNAME/seanime-plugins/anilist-adult-guard/anilist-adult-guard.ts",
+    "plugin": {
+        "version": "1",
+        "permissions": {
+            "scopes": ["anilist", "storage"]
+        }
+    },
+    "isDevelopment": true
+}
